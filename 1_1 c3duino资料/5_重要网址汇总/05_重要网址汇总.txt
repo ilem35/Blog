@@ -1,0 +1,13 @@
+百度网盘地址：
+链接:https://pan.baidu.com/s/1KT00FGpxOU7dS5LDeUVw3Q 提取码:nqx4
+hi，这是我用百度网盘分享的内容~复制这段内容打开「百度网盘」APP即可获取
+
+乐鑫的github主页：
+
+
+乐鑫的github主页有关json的页面：
+https://github.com/espressif/arduino-esp32/releases/tag/2.0.5
+
+记录详细搭建过程的博客地址：
+https://github.com/ilem35/Blog/issues/1
+（这里面的内容是最详细、最全面的）
