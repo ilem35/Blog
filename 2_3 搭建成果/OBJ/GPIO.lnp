@@ -1,0 +1,14 @@
+--cpu Cortex-M3
+"..\obj\main.o"
+"..\obj\air32f10x_it.o"
+"..\obj\system_air32f10x.o"
+"..\obj\blink.o"
+"..\obj\delay.o"
+"..\obj\startup_air32f10x.o"
+"..\obj\air32f10x_gpio.o"
+"..\obj\air32f10x_rcc.o"
+"..\obj\misc.o"
+--library_type=microlib --strict --scatter "..\OBJ\GPIO.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\GPIO.map" -o ..\OBJ\GPIO.axf
